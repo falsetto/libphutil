@@ -1,5 +1,5 @@
 {
-    "name": "facebook/libphutil",
+    "name": "falsetto/libphutil",
     "type": "library",
     "description": "libphutil is a collection of utility classes for PHP.",
     "version": "1.0-alpha",
